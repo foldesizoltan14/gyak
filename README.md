@@ -1,0 +1,2 @@
+# gyak
+Repo for szoftgyak
